@@ -21,7 +21,7 @@ Robert Perkel
 Rich Dumene
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/High-Voltage-Power-supply"" >High-Voltage-Power-supply</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/High-Voltage-Power-supply" >High-Voltage-Power-supply</a>
 
 ## Photo
 
